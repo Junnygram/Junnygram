@@ -2,7 +2,7 @@
 
 
 
-My name is Oyewunmi Olaleye ========================================================================================================================================  I’m a MERN developer --------------------  I’ve been learning how to code for almost a year , I started with Python then I went to web development where I learnt html css , JavaScript, react , node js , mongodb and express  * 🌍  I'm based in Abeokuta * ✉️  You can contact me at [Junnexclusive@gmail.com](mailto:Junnexclusive@gmail.com ) * 🧠  I'm Trying to be very good at reactjs and node js * 🤝  I'm open to collaborating on On any form of collaboration * ⚡  
+My name is Oyewunmi Olaleye ========================================================================================================================================  I’m a Frontend developer --------------------  I’ve been learning how to code for almost a year , I started with Python then I went to web development where I learnt html css , JavaScript, react , node js , mongodb and express  * 🌍  I'm based in Abeokuta * ✉️  You can contact me at [Junnexclusive@gmail.com](mailto:Junnexclusive@gmail.com ) * 🧠  I'm Trying to be very good at reactjs and node js * 🤝  I'm open to collaborating on On any form of collaboration * ⚡  
 
 
 ​
