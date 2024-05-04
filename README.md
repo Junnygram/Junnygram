@@ -2,7 +2,7 @@
 
 
 
-My name is Oyewunmi Olaleye ========================================================================================================================================  I’m a Frontend developer --------------------  I’ve been been coding for almost two year , I started with Python then I went to web development where I learnt html css , JavaScript, react , node js , mongodb and express , currently buidilng with nextjs * 🌍  I'm based in Lagos * ✉️  You can contact me at [Junnexclusive@gmail.com](mailto:Junnexclusive@gmail.com ) * 🧠  * 🤝  I'm open to collaborating on On any form of collaboration * ⚡  
+My name is Oyewunmi Olaleye ========================================================================================================================================  I’m a Software Enginner  --------------------  Busy making magic * 🌍  I'm based in Lagos * ✉️  You can contact me at [Junnexclusive@gmail.com](mailto:Junnexclusive@gmail.com ) * 🧠  * 🤝  I'm open to collaborating on On any form of collaboration * ⚡  
 
 
 ​
