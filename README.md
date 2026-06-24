@@ -16,7 +16,7 @@
 
 I'm a software engineer based in Lagos, passionate about building scalable web applications and cloud infrastructure. I'm currently deepening my cloud expertise with **AWS**, contributing to open-source education projects, and always looking for meaningful collaboration.
 
-- 🔭 &nbsp;Open-source contributor at **[Layer5 Academy](https://github.com/layer5io)** — helping build educational content for the cloud-native community
+- 🔭 &nbsp;Open-source contributor 
 - ☁️ &nbsp;Currently learning and building on **AWS** — cloud architecture, serverless, and DevOps workflows
 - ⚡ &nbsp;Open to collaborating on **AWS** and **Next.js** projects
 - 🛠️ &nbsp;I enjoy the intersection of great developer experience and solid infrastructure
@@ -48,14 +48,6 @@ I'm a software engineer based in Lagos, passionate about building scalable web a
 | VS Code | Vim | Neovim | macOS |
 |:---:|:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="40" height="40" /> |
-
----
-
-## Open Source
-
-| Project | Role | Description |
-|---|---|---|
-| [Layer5 Academy](https://github.com/layer5io/layer5) | Contributor | Cloud-native educational content built on Hugo/Hextra |
 
 ---
 
